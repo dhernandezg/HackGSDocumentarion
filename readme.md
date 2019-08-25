@@ -15,7 +15,7 @@ El proyecto esta enfocado a una solucion Web API integrado por los siguientes el
 ### Caracteristicas de desarrollo
 
 Para la peristencia se plantea usar SQL Server y  el modelo relacional representa la informacion es el siguiente:
-
+![alt text](https://raw.githubusercontent.com/dhernandezg/HackGSDocumentarion/master/Diagrama%20BD.jpeg)
 La api es desarrollada se encuentra en .NET 
 
 El conversor de plantillas utiliza el paquete nuget itextSharp
